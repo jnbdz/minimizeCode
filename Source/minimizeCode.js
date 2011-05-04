@@ -6,6 +6,8 @@ license: MIT-style
 
 authors:
 - Jean-Nicolas Boulay Desjardins (http://jean-nicolas.name/)
+- Spot (http://linkedin.com/in/spotnyk)
+- Tim Pietzcker (http://hs-ulm.de/ig)
 
 requires:
  core/1.3:   '*'
