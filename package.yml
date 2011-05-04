@@ -1,8 +1,5 @@
 name: minimizeCode
-author:
-- jnbdz
-- Spot
-- Tim Pietzcker
+author: [jnbdz, Spot, Tim Pietzcker]
 category: Utilities
 tags: [minimize, css]
 demo: http://jsfiddle.net/jnbdz/pQywq/
